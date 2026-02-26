@@ -1,0 +1,11 @@
+[package]
+name = "soberania-digital-zipromt"
+version = "0.1.0"
+edition = "2021"
+authors = ["JHA Chaman Vida"]
+
+[description]
+"Infraestructura de resiliencia basada en la dilatación de Lorentz."
+
+[dependencies]
+# Aquí conectaremos la IA y el Blockchain en el futuro.
